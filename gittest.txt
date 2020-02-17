@@ -4,3 +4,4 @@ Git is free software
 luochenÂå³¿
 luochen24
 git branch <name>
+Creating a new branch is quick & simple.
